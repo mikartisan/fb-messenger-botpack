@@ -7,7 +7,7 @@ module.exports.config = {
   usePrefix: true,
   commandCategory: "guide",
   usages: "[Shows Commands]",
-  cooldowns: 5,
+  cooldowns: 10,
   envConfig: {
     autoUnsend: true,
     delayUnsend: 60,

@@ -155,15 +155,6 @@ Go to your `config.json` and set it in the language property:
 - Embrace the world of possibilities with [BotPack](https://replit.com/@YanMaglinte/BotPack)🌀 - a facebook Messenger file designed to make your interaction with messenger bots smoother and more efficient.
 ---
 <div align="center">
-      <h3>My Replit Account:
-      <a href="https://replit.com/@YanMaglinte" style="color: green;"><br>@YanMaglinte🔥</a>
-        <br>
-        My Facebook Account:<a href="https://www.facebook.com/yandeva.me?mibextid=b06tZ0" style="color: green;"><br>Yan🚀</a></h3></div>
-
-- If you encounter any issues or have questions related to this REPL, please don't hesitate to reach out to me on Facebook. I'm here to assist you!
-
-<img align="center" src="https://i.ibb.co/pnm38zY/yanmaglinte.png"/>
-
 ### **HOW TO START USING BOTPACK?**
 
 1. Begin by navigating to [Replit](https://replit.com).

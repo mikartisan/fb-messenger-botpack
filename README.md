@@ -154,7 +154,7 @@ Go to your `config.json` and set it in the language property:
 
 - Embrace the world of possibilities with [BotPack](https://replit.com/@YanMaglinte/BotPack)🌀 - a facebook Messenger file designed to make your interaction with messenger bots smoother and more efficient.
 ---
-<div align="center">
+
 ### **HOW TO START USING BOTPACK?**
 
 1. Begin by navigating to [Replit](https://replit.com).
